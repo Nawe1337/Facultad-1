@@ -1,6 +1,8 @@
 
 package holamundo;
 
+import java.util.Scanner;
+
 /**
  *
  * @author nahue
@@ -11,6 +13,7 @@ public class HolaMundo {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        Scanner leer = new Scanner(System.in);
         
         System.out.println(" Hola mundo desde java ");
         
