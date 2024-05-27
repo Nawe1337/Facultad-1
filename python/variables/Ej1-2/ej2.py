@@ -4,3 +4,5 @@ if num >=18 :
     print(f"la edad es {num} por lo tanto es mayor de edad")
 else:
     print(f"la edad es {num} por lo tanto no es mayor de edad")
+
+resultado = int(input('¿Como estuvo tu día (1 al 10)?'))
